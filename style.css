@@ -1,6 +1,7 @@
 * {
     background-color: white;
     margin-top: 0cm;
+    margin-left: 0.80cm;
 }
 
 /* SIDEBAR */
@@ -32,7 +33,7 @@
     box-sizing: content-box;
     width: 580px;
     position: fixed;
-    margin-left: 500px;   
+    margin-left: 530px;   
 }
 
 .content h1 {
@@ -43,3 +44,18 @@
     text-align: justify;
 }
 
+/* MENU */
+.menu ul {
+    display: inline-block;
+    margin-top: 1cm;
+    margin-left: 11cm;
+    margin-bottom: 2cm;
+}
+.menu ul li {
+    background-color: #D9D9D9;
+    padding: 5px 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-left: 5em;
+}
