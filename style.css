@@ -26,3 +26,20 @@
     margin: 1.3em;
 }
 
+/* CONTEÚDO */
+
+.content {
+    box-sizing: content-box;
+    width: 580px;
+    position: fixed;
+    margin-left: 500px;   
+}
+
+.content h1 {
+    text-align: center;
+}
+
+.content p {
+    text-align: justify;
+}
+
