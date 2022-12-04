@@ -1,0 +1,33 @@
+* {
+    background-color: white;
+}
+
+/* HEADER */
+
+header .sidebar {
+    box-sizing: border-box;
+    background-color: #D9D9D9;
+    position: absolute;
+    width: 428px;
+    height: 1117px;
+    left: 148px;
+    padding: 0px 20px;
+}
+
+header .sidebar h1 {
+    background-color: #D9D9D9;
+    text-align: left;
+}
+
+header .sidebar h2 {
+    background-color: #D9D9D9;
+    text-align: center;
+}
+
+p {
+    background-color: #D9D9D9;
+    text-align: justify;
+}
+
+
+/* MENU DE NAVEGAÇÃO */
