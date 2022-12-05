@@ -1,0 +1,21 @@
+* {
+    background-color: #ffffff;
+    margin-top: 0cm;
+    margin-left: 0cm;
+}
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+}
+
+p {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+}
+
+.menu ul li {
+    font-family: 'Poppins', sans-serif;
+}
+.content {
+    position: relative;
+}
