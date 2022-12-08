@@ -31,7 +31,7 @@
     box-sizing: content-box;
     height: 146px;
     margin: 67px 41px -33.2px;
-    border: 2.5px dashed rgba(0, 0, 0, 0.13);
+    border: 2.5px dashed rgb(8 5 5 / 47%);
     border-radius: 20px;
     align-content: center;
 }
