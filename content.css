@@ -1,9 +1,11 @@
 /* CONTEÚDO */
 
 .content {
+    position: absolute;
     box-sizing: content-box;
+    width: 40em;
     margin: 50px 226px;
-    margin-left: 39em    
+    margin-left: 40em    
 }
 
 .content h1 {
