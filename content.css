@@ -1,0 +1,16 @@
+/* CONTEÚDO */
+
+.content {
+    box-sizing: content-box;
+    margin: 50px 226px;
+    margin-left: 39em    
+}
+
+.content h1 {
+    text-align: center;
+    margin-bottom: 1.25cm;
+}
+
+.content p {
+    text-align: justify;
+}
