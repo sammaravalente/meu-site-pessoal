@@ -8,6 +8,12 @@ h1 {
     font-family: 'Poppins', sans-serif;
 }
 
+h2 {
+    font-family: 'Poppins', sans-serif;
+    font-size: medium;
+    margin-top: 25px;
+}
+
 p {
     font-family: 'Poppins', sans-serif;
     font-weight: 400;
