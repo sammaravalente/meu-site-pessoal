@@ -4,7 +4,7 @@
     background-color: #D9D9D9;
     box-sizing: content-box;
     background-blend-mode: multiply;
-    background: linear-gradient(340.52deg, #c2c2c2 1.5%, rgba(219, 219, 219, 0) 35.81%, #DBDBDB 66.62%, rgba(219, 219, 219, 0) 97.42%);
+    background: linear-gradient(340.52deg, #c2c2c2 1.5%, rgba(219, 219, 219, 0) 35.81%, #DBDBDB 66.62%, #dbdbdb00 97.42%);
     width: 280px;
     border: 1px solid rgba(0, 0, 0, 0.13);
     box-shadow: 3px 4px 7px -2px rgba(0, 0, 0, 0.3);
@@ -13,7 +13,7 @@
     margin: 0px 300px;
 }
 
-.sidebar .holder {
+.sidebar .furinho {
     box-sizing: border-box;
     position: absolute;
     width: 83px;
@@ -69,6 +69,7 @@
     background-blend-mode: multiply;
     background: linear-gradient(rgba(219, 219, 219, 0) 35.81%, rgba(219, 219, 219, 0) 97.42%);
     padding-left: 0;
+    margin-bottom: 20px;
     text-align: center;
     word-spacing: 1.5em;
 }
